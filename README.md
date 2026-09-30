@@ -9,6 +9,6 @@ I'm a Minecraft plugin developer and the founder of **Scappi X Studios**, the co
 - 🌍 **GeopolX**: the nations server I'm building (in development)
 - 🛠️ Tooling plugins for any Paper server, plus commissions: [vanillax.pages.dev/commission](https://vanillax.pages.dev/commission)
 
-🌐 [vanillax.pages.dev](https://vanillax.pages.dev) · 💬 Discord: `@scappix` · [VanillaX Discord](https://discord.gg/fSkGCy4Rp4)
+🌐 [vanillax.pages.dev](https://vanillax.pages.dev) · 🏢 [Scappi X Studios](https://scappidoo.github.io/scappi-x-studios/) · 💬 Discord: `@scappix` · [VanillaX Discord](https://discord.gg/fSkGCy4Rp4)
 
 Java · Python · Paper · Fabric
