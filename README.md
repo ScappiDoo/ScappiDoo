@@ -7,8 +7,8 @@ I'm a Minecraft plugin developer and the founder of **Scappi X Studios**, the co
 - 🧩 **VanillaX Client**: Windows launcher and Fabric client. [Download](https://github.com/ScappiDoo/vanillax/releases/latest)
 - 🏰 **X projects**: Paper plugins for nations and war: NationsX, FactoryX, PassportX, CannonX, CavalryX
 - 🌍 **X Geopol**: the nations server I'm building (in development)
-- 🛠️ Tooling plugins for any Paper server, plus commissions: [vanillax.pages.dev/commission](https://vanillax.pages.dev/commission)
+- 🛠️ Tooling plugins for any Paper server, plus commissions: [scappixstudios.com/commission](https://scappixstudios.com/commission)
 
-🌐 [vanillax.pages.dev](https://vanillax.pages.dev) · 🏢 [Scappi X Studios](https://scappidoo.github.io/scappi-x-studios/) · 💬 Discord: `@scappix` · [VanillaX Discord](https://discord.gg/fSkGCy4Rp4)
+🌐 [scappixstudios.com](https://scappixstudios.com) · 🏢 [Scappi X Studios](https://scappidoo.github.io/scappi-x-studios/) · 💬 Discord: `@scappix` · [VanillaX Discord](https://discord.gg/fSkGCy4Rp4)
 
 Java · Python · Paper · Fabric
